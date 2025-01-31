@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+::placeholder {
+    @apply text-slate-500;
+}
